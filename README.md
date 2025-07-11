@@ -25,5 +25,18 @@ This project demonstrates a beginner-friendly ETL pipeline using AWS services:
 ---
 
 ## 📁 Project Structure
+.
+├── README.md
+├── data/ # (optional) local CSV copy
+├── docs/ # Architecture diagram, notes
+├── scripts/ # Boto3 / Glue scripts
+├── screenshots/ # AWS console screenshots
 
 
+---
+
+## 🛠️ Tech Used
+
+- AWS S3, Glue, Redshift  
+- Python (Boto3)  
+- SQL
